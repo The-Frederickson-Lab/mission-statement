@@ -20,7 +20,7 @@ how we hope to work towards this goal.
 Please note that this is not a legal document, and does not replace or
 supersede departmental and universities policies.
 
-## Personal & Interpersonal Conduct
+## PERSONAL & INTERPERSONAL CONDUCT
 
 - How to treat one another
 - Equity, diversity, & inclusion
