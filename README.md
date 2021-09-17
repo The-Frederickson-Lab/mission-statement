@@ -22,14 +22,31 @@ supersede departmental and universities policies.
 
 ## PERSONAL & INTERPERSONAL CONDUCT
 
-- How to treat one another
-- Equity, diversity, & inclusion
-- Sexual harassment, violence, etc.
-- Lab communications & social media
-- Power imbalances
+-   How to treat one another
+-   Equity, diversity, & inclusion
+-   Sexual harassment, violence, etc.
+-   Lab communications & social media
+-   Power imbalances
 
-All lab members are expected to treat others with respect and kindness. Putdowns, offensive jokes, physical or sexual violence or harassment of any kind are not acceptable, either in person or via digital/online communication. 
+All lab members are expected to treat others with respect and kindness.
+Putdowns, offensive jokes, physical or sexual violence or harassment of
+any kind are not acceptable, either in person or via digital/online
+communication.
 
-The Frederickson Lab is deeply committed to the fair and equitable treatment of all current and prospective lab members. Harrassment or other forms of discrimination based on gender, race, religion, sexual orientation, (dis)ability, immigration status, physical appearance, etc. will not be tolerated. Making everyone feel supported and included is necessary to develop a collaborative and productive lab. A diverse research group brings a greater breadth of lived experiences and skills, which helps promote diversity of thought within the group. This generates a research atmosphere more conducive to the kind of critical thinking and unbiased reasoning that is fundamental to doing good science. 
+The Frederickson Lab is deeply committed to the fair and equitable
+treatment of all current and prospective lab members. Harrassment or
+other forms of discrimination based on gender, race, religion, sexual
+orientation, (dis)ability, immigration status, physical appearance, etc.
+will not be tolerated. Making everyone feel supported and included is
+necessary to develop a collaborative and productive lab. A diverse
+research group brings a greater breadth of lived experiences and skills,
+which helps promote diversity of thought within the group. This
+generates a research atmosphere more conducive to the kind of critical
+thinking and unbiased reasoning that is fundamental to doing good
+science.
 
-We expect respectful conduct to extend to your life off campus, because you represent the lab, the Department of Ecology & Evolutionary Biology, and the University of Toronto more broadly. That said, we also recognize and respect your individual agency in making choices about how to live your life. 
+We expect respectful conduct to extend to your life off campus, because
+you represent the lab, the Department of Ecology & Evolutionary Biology,
+and the University of Toronto more broadly. That said, we also recognize
+and respect your individual agency in making choices about how to live
+your life.
