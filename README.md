@@ -50,3 +50,37 @@ you represent the lab, the Department of Ecology & Evolutionary Biology,
 and the University of Toronto more broadly. That said, we also recognize
 and respect your individual agency in making choices about how to live
 your life.
+
+## MENTAL HEALTH & WELLNESS
+### Mental Health
+
+We are all painfully aware of the growing mental health crisis on university campuses, including the University of Toronto. Rates of anxiety and depression among the student body have seen marked increases within the last ten years, despite increased investment in mental health resources. We at the Frederickson Lab are determined not to be a contributor to this problem. We hope that your time in the lab is fruitful and fulfilling, but if keeping up with your work ever becomes antithetical to preserving your mental health, please please please prioritize your mental health. No school deadline, grant application, conference presentation, etc. is worth sacrificing your mental health.
+
+### Burnout
+
+Burnout is a state of mental and emotional exhaustion brought on by extended periods of mental stress. It often results in a depressed mood and feelings of cynicism towards one’s work. If you’re feeling over-worked—you’re feeling down or apathetic about a project for which you once had enthusiasm—let Megan know and accommodations can be made. Maybe you’re spending more time on a task than is expected of you. Or maybe the task is requiring much more effort than initially expected and the timeline just needs adjusting. Maybe you just need to take a break. If you are burnt out, trying to work through it will only make things worse, and you won’t produce your best work anyway.
+
+### Work-life balance
+
+The above paragraphs notwithstanding, research also shows that performing meaningful work, and adopting a sense of ownership over that work is a fundamental component of well-being. Presumably you are in the lab because you are genuinely interested in the work we (you) do, and we do expect lab members to be responsible and dedicated to their work. The key is striving to achieve a healthy balance between your work life and all of the other things you wish to do. Below are some general tips for doing so, and for helping improve and maintain your mental health, generally:
+
+- Schedule your time and keep healthy routines
+- This helps you make time for the things that are important to you, and also to recognize and intervene when work starts encroaching too much into your non-work time
+- Think ahead and stay organized
+- Most people are natural procrastinators, but this often only increases stress in the long run
+- Be deliberate in taking your mind off your work
+- Hobbies, socializing, mindfulness practice, etc. give your mind a chance to rest and recharge
+- Work to maintain social connections
+- It’s tempting to seek seclusion under a heavy workload and prolonged stress—try to resist this urge, it often makes things worse
+- Eat well and exercise regularly
+- Healthy habits, including regular exercise and time outdoors have been shown time and again to have profound mental health benefits
+- If you’re struggling, don’t be afraid to seek help
+- Approach Megan about accommodations, talk things through with your friends and family, or make use of some of the resources below
+
+### Mental Health Resources:
+
+- Student Life mental health overview: https://www.studentlife.utoronto.ca/feeling-distressed
+- Health & Wellness Centre: https://www.studentlife.utoronto.ca/hwc
+- EGSA Mental Health Committee events for graduate students: typically advertised through email
+- Grad Minds (UTGSU): https://www.gradminds.ca
+- Sexual Violence Prevention & Support Centre: https://www.svpscentre.utoronto.ca
