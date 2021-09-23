@@ -64,3 +64,11 @@ The above paragraphs notwithstanding, research also shows that performing meanin
 - EGSA Mental Health Committee events for graduate students: typically advertised through email
 - Grad Minds (UTGSU): https://www.gradminds.ca
 - Sexual Violence Prevention & Support Centre: https://www.svpscentre.utoronto.ca
+
+### Lab Safety
+
+You should never feel unsafe while working in the lab. Your research may require that you work with potentially hazardous materials or equipment, but these can all be handled safely if proper precautions are taken and if you receive the proper training. All lab members are required to take online training modules before working in the lab, specifically Biosafety Training and WHMIS. These trainings are offered online through Environmental Health & Safety, but access is available only when connected to the university network (e.g., when using wifi on campus, or through the U of T VPN). 
+
+Before performing an unfamiliar task in the lab, ensure that you are properly trained and have read any applicable SOPs (Standard Operating Procedures)—these can be found in the Lab Biosafety Manual. If you are working with hazardous materials, you should also read the MSDS (Material Safety Data Sheet) for each material in use. If you are unsure where to find these resources, or what training might be required for a particular task, please ask Megan or a senior lab member for help.
+
+If after obtaining help and receiving proper training, you still don’t feel totally comfortable performing a given task, ask an experienced lab mate or colleague to supervise you performing the task until you feel comfortable doing it on your own. This rule applies even to work on projects that do not pose any significant safety risk. Many projects in the lab are collaborative efforts that involve repetitive tasks performed by multiple people, or measurements made by multiple observers. Maintaining consistency in the methods and observations amongst collaborators is key to producing high quality research.
